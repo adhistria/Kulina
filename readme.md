@@ -7,10 +7,12 @@ Untuk menjalankan aplikasi
 3.Ketik php artisan serve
 Adapun route yang digunakan
 
-| GET       | api/user_review
-| POST      | api/user_review
-| PUT       | api/user_review/{id}
-| DELETE    | api/user_review/{id}
+| Method    | Routes               |
+| --------- | -------------------- |
+| GET       | api/user_review	   |
+| POST      | api/user_review	   |
+| PUT       | api/user_review/{id} |
+| DELETE    | api/user_review/{id} |
 
 ## Algorithm
 Dapat dilihat pada folder Algoritma, menggunakan Go Lang

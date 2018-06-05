@@ -1,4 +1,4 @@
-CREATE TABLE user_review2 (
+CREATE TABLE user_reviews (
     id int  AUTO_INCREMENT,
     order_id int,
     product_id int,

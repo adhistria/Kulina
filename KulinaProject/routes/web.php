@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 //Route::resource('user_review','UserReviewController');
-Route::resource('user_review','UserReviewController');
+//Route::resource('user_review','UserReviewController');
 //Route::post('user_review','UserReviewController@store');
